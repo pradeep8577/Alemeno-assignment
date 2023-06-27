@@ -7,7 +7,7 @@ The Urine Test Strip Color Extractor project focuses on building a user-friendly
 - React: A JavaScript library for building user interfaces.
 
 Visit the url of frontend, insert urine strip image and get the results
-Frontend - [Click Here]()
+Frontend - [Click Here](https://alemeno-app.vercel.app/)
 
 Open terminal and enter the commands.
 
@@ -26,4 +26,8 @@ Open terminal and enter the commands.
 
 ```
 *Screenshot*
+
+
+https://github.com/pradeep8577/Alemeno-assignment/assets/72540482/872b3a52-d11c-486b-b277-9fae12fe9351
+
 
