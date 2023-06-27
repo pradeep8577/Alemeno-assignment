@@ -22,7 +22,7 @@ Open terminal and enter the commands.
 ```
     cd client
     npm install
-    npm run dev
+    npm start
 
 ```
 *Screenshot*
